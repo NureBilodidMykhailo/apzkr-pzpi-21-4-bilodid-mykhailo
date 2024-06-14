@@ -1,0 +1,6 @@
+@SmartTruckApi.Api_HostAddress = http://localhost:5042
+
+GET {{SmartTruckApi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
